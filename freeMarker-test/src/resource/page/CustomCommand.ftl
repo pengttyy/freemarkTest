@@ -26,7 +26,7 @@
 测试：
 <@greetContent "pengttyy">这个内容是嵌套内容哈哈</@greetContent>
 
-<@greetContent "pengttyy"><@greet "pengttyy" "pengkai2"/></@greetContent>
+<@greetContent "pengttyy"><@greet "pengttyy" "pengttyy2"/></@greetContent>
 
 ---------------------------------------------------------------------------
 循环变量
